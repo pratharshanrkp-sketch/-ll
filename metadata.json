@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LensFlow AR Studio",
+  "description": "A high-end AR lens creation and account management dashboard powered by Gemini AI. Generate, preview, and manage your augmented reality experiences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
